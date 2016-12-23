@@ -1,0 +1,50 @@
+body {
+	background-color: #399CFC;
+	margin: none;
+	padding: none;
+}
+
+.container-fluid {	
+	height: 95vh;
+}
+
+.img-container {
+	margin: 18vh 0 0 0;
+	text-align: center;
+	width: 100%;
+}
+
+.app-icon {
+	width: 350px;
+	margin: 0 auto;
+}
+
+.app-title {
+	font-size: 34px;
+	color: white;
+	font-weight: bold;
+}
+
+.app-title:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.app-title:active, .app-title:focus {
+	color: white;
+}
+
+.footer {
+	height: 5vh;
+	background-color: #9ED3FF;
+	color: #309EFF;
+	font-size: 24px;
+	text-align: center;
+	padding-top: 4px;
+}
+
+.footer a {
+	text-decoration: none;
+	color: #309EFF;
+
+}
