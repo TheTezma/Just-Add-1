@@ -1,0 +1,6 @@
+RewriteEngine ON
+
+RewriteRule ^contact$ templates/contact.html [L]
+RewriteRule ^privacy$ templates/privacy.html [L]
+RewriteRule ^leaderboard$ api/leaderboard.php [L]
+RewriteRule ^new_highscore$ api/new_leaderboard.php [L]
